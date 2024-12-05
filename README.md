@@ -1,1 +1,2 @@
-# IT_120-SMS-Assignment-
+
+SMS sending application provides a seamless user experience by allowing users to send messages through an intuitive web interface. Through form validation, integration with an SMS gateway, and clear user feedback, the application simplifies SMS communication while prioritizing security and reliability. As users engage with the application, they benefit from the efficient processing of their requests and transparent updates about the status of their messages. This makes the application not only functional but also user-centric, ensuring that it meets the needs of its target audience effectively.
