@@ -9,8 +9,11 @@ Send SMS Messages
 Allow users to send SMS messages by providing the recipient's number and a message body.
 
 How it works
+
 pip install django twilio
+
 django-admin startproject sms_assignment
+
 cd sms_assigment
 
 Setup: Install the necessary dependencies, including Django and Twilio SDK.Twilio Account Setup
