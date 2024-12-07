@@ -24,6 +24,12 @@ Acts as a gateway to deliver SMS messages to the recipient.
 User Interface:The user provides the recipient's phone number and message through a web form or API request.
 
 How to Run:
-git clone repository 
+git clone repository https://github.com/LazyKish/Sms_assignment.git
+Install Dependencies: pip install -r requirements.txt
+if you already added or Set Up Twilio Credentials:  Twilio ACCOUNT_SID, AUTH_TOKEN, and TWILIO_PHONE_NUMBER and add .env file or directly into the settings.py file.
+
+Run the Server: python manage.py runserver
+
+Access the Application: Open your browser and go to http://127.0.0.1:8000.
 
 
